@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: connorrt/gatsby-netlify-ts-blog
   branch: main
 
